@@ -59,3 +59,34 @@ I will be making more time for my studies as of next week with the expectation o
 ### What theory proved to be useful and why? What have I learnt from this?
 
 The Condorcet theory proved to be very useful. In layman’s terms, it is the use of many different view points to focus on one problem and gaining as ideas as possible.
+
+
+## Week 3
+
+### What have I learnt this week?
+
+This week I learnt about new models such as the rational, behavioural and rule-based models.
+
+### What do I 'now know' that I did not before?
+
+The ability to use decision trees and the utilise probability to my advantage in all aspects of my life. 
+
+### What insights have I gained?
+
+One insight I have gained is the value of information and data to support decisions.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I perceive my strengths to be relating the systems and theories learnt in this module to my life therefore making it easier to understand. 
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+One challenge would be the problem solving in a group scenario, where everyone has different perspectives on how a problem should be tackled. Collating these perspectives, configuring, and organising these comes as a challenge
+
+### What would I do better next time and with what anticipated results?
+
+Next time I will be better organised with my group projects. Writing things down allows from greater organisation as things can be physically seen instead of imagined and then confused.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The Costly Signalling theory as it is relatable to real life and decision making outside my academic work.
