@@ -29,3 +29,33 @@ Summarise and thoroughly look over information provided to make sense of it and 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 No theories were in week 1 to my knowledge
+
+
+## Week 2
+
+### What have I learnt this week?
+
+I have learnt firstly about how to read/evaluate different complex systems simply and properly. Furthermore, I have learnt about many different models and the science of many models.
+
+### What do I 'now know' that I did not before?
+
+I know about the science of many models which in itself was very interesting. 
+### What insights have I gained?
+
+Learning about how to use certain models is definitely a worthy insight as I know have the ability and knowledge to read and analyse certain systems.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I have noticed that I can be quick to grasp information though and I need to dedicate more time to work to further understand and place information in my long-term memory
+ 
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+The challenges I experienced was an increase in content and hence with other commitments, content became a struggle to study and summarise 
+
+### What would I do better next time and with what anticipated results?
+
+I will be making more time for my studies as of next week with the expectation of summarising and studying the content properly.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The Condorcet theory proved to be very useful. In layman’s terms, it is the use of many different view points to focus on one problem and gaining as ideas as possible.
