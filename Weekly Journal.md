@@ -98,25 +98,25 @@ The Costly Signalling theory as it is relatable to real life and decision making
 
 This week I learnt the detailed example of a system, system dynamics and ways in which system dynamics can be utilised. 
 
-## What do I 'now know' that I did not before?
+### What do I 'now know' that I did not before?
 
 I now know how important system dynamics are in the real world and how they can be used for modelling. Furthermore, how outside variables can affect the system.
 
-## What insights have I gained?
+### What insights have I gained?
 
 One piece of insight I have gained is that i now understand and am able to implement system dynamics in my own personal life through the studies I have undertaken this week. One such example is pizza house example which highlighted how to utilise system dynamics to its full effect.
 
-## What are (my/the) perceived strengths and weaknesses that I have observed?
+### What are (my/the) perceived strengths and weaknesses that I have observed?
 
 I have viewed in myself the ability to apply variables to systems in an accurate and efficient way, therefore creating a more precise system and model.
 
-## What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
 Challenges I faced included understanding and answering questions on different types of networks, as I found them confusing at times.
 
-## What would I do better next time and with what anticipated results?
+### What would I do better next time and with what anticipated results?
 I will be doing increased reading on areas I felt I could excel more at, including networks, in order to better understand the content before the final assignment submission.
 
-## What theory proved to be useful and why? What have I learnt from this?
+### What theory proved to be useful and why? What have I learnt from this?
 
 Once properly understood the network theory seemed most useful as I felt it had many similarities to real world situations such as the growth of certain social media platforms and the users within them for example. From this it has been interesting to study and view, as mentioned previously, the trends and growth patterns of users and applications alike on the internet.
