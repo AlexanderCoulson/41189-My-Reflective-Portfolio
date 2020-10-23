@@ -120,3 +120,33 @@ I will be doing increased reading on areas I felt I could excel more at, includi
 ### What theory proved to be useful and why? What have I learnt from this?
 
 Once properly understood the network theory seemed most useful as I felt it had many similarities to real world situations such as the growth of certain social media platforms and the users within them for example. From this it has been interesting to study and view, as mentioned previously, the trends and growth patterns of users and applications alike on the internet.
+
+## Week 5
+
+### What have I learnt this week?
+
+This week I have learnt about the importance of probability and statistics in systems and how they can effect different systems by introducing variables 
+
+### What do I 'now know' that I did not before?
+
+This topic was already taught to me during high school, therefore I already had knowledge of this information.
+
+### What insights have I gained?
+
+One insight I have been gained is the ability to calculate and plot bell curves which gives and clear and accurate view of the data found. Therefore making it easier to translate this data into a system format.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I have found a strength of mine to be the mathematical aspect of the bell curves as I have done a previous statistics for business unit at Western Sydney University
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+The main challenge I faced was, as described in the text, characterising the different variables in order to apply them to the systems. I overcame this through writing down all the different variables and matching them to characteristics so I could physically see what linked where to give a clearer picture.
+
+### What would I do better next time and with what anticipated results?
+
+Next time I will be writing down anything that is unclear so I can better understand it. Writing it down seems to present a clearer picture for me .
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+Linear models in the self study section seemed to most useful as it made use of prior knowledge of linear graphs showing an average then plotting other data around it to highlight how close individual data was to the average marker. 
