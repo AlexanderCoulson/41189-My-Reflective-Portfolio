@@ -203,3 +203,31 @@ Challenges I experienced this week only came with the time I had allocated for m
 ### What would I do better next time and with what anticipated results?
 
 Same as previous answer
+
+
+## Week 8
+
+### What have I learnt this week?
+
+This week I learnt about the colonel blotto game and the prisoners dilemma.
+
+### What do I 'now know' that I did not before?
+
+I now and understand the prisoners dilemma
+
+### What insights have I gained?
+
+The insight which I have gained is through the colonel blotto game which suggests that no one model can be used for the most accuracy, though a combination of many is most useful.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I have found that with a lot of data I become overwhelmed and cannot focus on the problem at hand. I overcome this by writing down and summarising all the data collected in order to simply it for easier reading.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+This week I encountered challenges with using GitHub and accessing my code and files. I overcame this by asking my team mates questions and looking up answers on the internet
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+No theories used this week
+
