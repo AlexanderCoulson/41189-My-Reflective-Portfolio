@@ -178,3 +178,28 @@ As with most previous weeks I will focus on practicing the mathematics needed fo
 
 ### What theory proved to be useful and why? What have I learnt from this?
 The Granovetter theory seemed to be most useful as it explained many real world scenarios and the reason as to why and how these scenarios grow so rapidly, such as the current riots in the United States of America.
+
+## Week 7
+
+### What have I learnt this week?
+
+This week I learnt about Schelling’s segregation model as well as the standing ovation model. In addition, I also learnt about culture and its impact on systems and models
+
+### What do I 'now know' that I did not before?
+
+I now know how schelling segregation model can be applied to everyday life and how problems related to the problem can be solved.
+
+### What insights have I gained?
+
+An insight I have gained is how culture and other characteristics of human beings are so relevant in the creation of models
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+This week, as with last week I did not perceive in strengths or weakness’ in myself as this week seemed to be a relatively content based week that was not difficult.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Challenges I experienced this week only came with the time I had allocated for my studies this week as I found it difficult to fit in my studies with my work schedule. As for next week I will be taking more time off work to continue with my studies. I will also endeavour to make this habit until the end of semester.
+
+### What would I do better next time and with what anticipated results?
+
+Same as previous answer
