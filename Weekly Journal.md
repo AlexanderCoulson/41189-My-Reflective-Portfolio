@@ -231,3 +231,11 @@ This week I encountered challenges with using GitHub and accessing my code and f
 
 No theories used this week
 
+
+### Week 9 
+
+This week i have structured the journal differently as there was no content taught. This will be the same for the subsequent weeks up until week 12.
+
+Week 9 our group worked on our pre-submission. We used Facebook Messenger to communicate with each other, with Evan Hunter as our coordinatior and leader. 
+I found it difficult to use github as i wasnt aware of how it properly worked as i entered my group late and so wasnt sure on how to use Github. Eventually after consultation
+with my group i found out how to use Github and get our pre-submission out successfully.
