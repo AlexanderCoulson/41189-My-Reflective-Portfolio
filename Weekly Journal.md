@@ -249,3 +249,9 @@ This week our group agreed that we would take time off our assignment in order t
 
 This week our group agreed that we would take time off our assignment in order to complete submissions for other units.
 
+### Week 12 
+
+This week our team have been doing some organising through messenger to meet up to discuss our assignment. This would have been done earlier though the two week extension to
+the due date allowed us to leave the assignment for longer. We have organised to meet through messenger this Saturday at midday to discuss the complexities of our assignment 
+in order to have it finished before the due date. The meeting will alo be used to help each other navigate the complexities of Github and jupyter notebook for anyone who is 
+not comfortable with it as of yet.
