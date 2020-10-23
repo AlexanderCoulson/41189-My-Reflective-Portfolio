@@ -150,3 +150,31 @@ Next time I will be writing down anything that is unclear so I can better unders
 ### What theory proved to be useful and why? What have I learnt from this?
 
 Linear models in the self study section seemed to most useful as it made use of prior knowledge of linear graphs showing an average then plotting other data around it to highlight how close individual data was to the average marker. 
+
+## Week 6
+
+### What have I learnt this week?
+
+This week I have learnt many things including, the markov model, convexity and concavity as well as the Granovetter theory.
+
+### What do I 'now know' that I did not before?
+
+I know of the markov model. The markov model puts systems into perspective by describing and highlighting a how something can transform from one state into another.
+
+### What insights have I gained?
+
+The Granovetter theory as mentioned later in this weekly reflection, was the most insightful piece of knowledge gained this week. This was due to it being so relatable to events and scenarios happening in the world around us today.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+This week I have perceived no obvious strengths and weaknesses that I have no mentioned previously. I still find heavy mathematics to be a weakness if I have not previously been taught it.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+This week I was particularly challenged by the mathematics. It became quite complex especially when solving problems related to the SIR Model.
+
+### What would I do better next time and with what anticipated results?
+As with most previous weeks I will focus on practicing the mathematics needed for this sub-topic in order to better my understanding for upcoming weeks.
+
+### What theory proved to be useful and why? What have I learnt from this?
+The Granovetter theory seemed to be most useful as it explained many real world scenarios and the reason as to why and how these scenarios grow so rapidly, such as the current riots in the United States of America.
